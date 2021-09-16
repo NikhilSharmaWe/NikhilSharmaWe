@@ -28,7 +28,7 @@
 
 <!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=NikhilSharmaWe&theme=xcode  -->
 ![](https://activity-graph.herokuapp.com/graph?username=NikhilSharmaWe&theme=react-dark&hide_border=true)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=verma-kunal&show_icons=true&theme=tokyonight)  -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=NikhilSharmaWe&show_icons=true&theme=tokyonight)  -->
 <p align="center">
 	
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NikhilSharmaWe&show_icons=true&theme=algolia&hide_border=true" />
