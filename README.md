@@ -9,8 +9,8 @@
 
 - :mortar_board: My name is Nikhil Sharma and I am a freshmen pursuing my Bachelor's in Computer Science & Engineering. 
 - :raising_hand: I am passionate about Kubernetes, Web Dev, DevOps & I try learn new things and improve my skills every single day.
-- :computer: I am very keen to contribute to **CNCF projects** and I am learning new things about the Cloud Native Tools every single day to be able to do useful contributions to the projects.
-- :cowboy_hat_face: I try to share my knowledge which I gather through my articles.
+- :computer: I am learning about Cloud Native Tools every single day and improving my skills to be able to do useful contributions to **CNCF** projects.
+- :cowboy_hat_face: I share my knowledge and skills which I gather through my articles.
 
 ## Skills 
 
