@@ -26,8 +26,6 @@
 
 ## <📈 GitHub Stats >  
 
-<!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=NikhilSharmaWe&theme=xcode  -->
-![](https://activity-graph.herokuapp.com/graph?username=NikhilSharmaWe&theme=react-dark&hide_border=true)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=NikhilSharmaWe&show_icons=true&theme=tokyonight)  -->
 <p align="center">
 	
