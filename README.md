@@ -14,14 +14,19 @@
 
 ## Skills 
 
-- ### **HTML, CSS** and **JAVA SCRIPT**
-- ### **DOCKER**
-- ### **KUBERNETES**
-- ### **SONOBUOY**
-- ### **GIT** 
-- ### **MONGODB**
-- ### **GOLANG**
-- ### **JAVA**
+
+### Languages
+- Golang
+- Java
+- JavaScript
+- HTML
+- CSS
+### Tools
+- Docker 
+- Kubernetes
+- Linkerd
+- Sonobuoy
+- Git & Github
 
 
 ## <📈 GitHub Stats >  
