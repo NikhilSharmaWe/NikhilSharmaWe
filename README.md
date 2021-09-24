@@ -15,18 +15,18 @@
 ## Skills 
 
 
-### Languages
-- Golang
-- Java
-- JavaScript
-- HTML
-- CSS
+### **Languages**
+- **Golang**
+- **Java**
+- **JavaScript**
+- **HTML**
+- **CSS**
 ### Tools
-- Docker 
-- Kubernetes
-- Linkerd
-- Sonobuoy
-- Git & Github
+- **Docker** 
+- **Kubernetes**
+- **Linkerd**
+- **Sonobuoy**
+- **Git & Github**
 
 
 ## <📈 GitHub Stats >  
