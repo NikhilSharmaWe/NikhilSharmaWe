@@ -1,4 +1,5 @@
 # Readme.md
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
 
 ## Hello , I'm Nikhil! <span class="wave">👋</span>
 ## About Me 
