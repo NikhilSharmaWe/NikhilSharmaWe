@@ -16,7 +16,7 @@
 ## Skills 
 
 
-### **Languages**
+### **Programming Languages**
 - **Golang**
 - **Java**
 - **JavaScript**
