@@ -24,6 +24,7 @@
 - **Golang**
 - **Java**
 - **JavaScript**
+- **Python**
 - **HTML**
 - **CSS**
 ### Tools
