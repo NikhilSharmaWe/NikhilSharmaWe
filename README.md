@@ -9,7 +9,7 @@
 
 
 - :mortar_board: My name is Nikhil Sharma and I am a freshmen pursuing my Bachelor's in Computer Science & Engineering. 
-- :raising_hand: I am passionate about CNCF Projects, Web Development and DevOps.
+- :raising_hand: I am passionate about CNCF Projects, Web Development, Golang and DevOps.
 - :computer: I am learning about Cloud Native Tools every single day and improving my skills to be able to do useful contributions to **CNCF** projects.
 	-  🌱 Currently I am learning about service mesh (linkerd).
 - :cowboy_hat_face: I also try to share my knowledge on my Blog about :
