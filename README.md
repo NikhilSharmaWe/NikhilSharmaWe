@@ -1,8 +1,9 @@
-# Readme.md
+
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 
-## Hello , I'm Nikhil! <span class="wave">👋</span>
-## About Me 
+<h1 align="center">Hello , I'm Nikhil! <span class="wave">👋</span></h1>
+
+## About Me
 
 **[Twitter](https://twitter.com/nikhilstwt)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[LinkedIn](https://www.linkedin.com/in/nikhil-sharma-3884261b2/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Blog](https://nikhilsblog.hashnode.dev/)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Youtube](https://www.youtube.com/channel/UC13FZ3U7cuLIGN9lOo_8cQQ)**
@@ -11,7 +12,7 @@
 - :mortar_board: My name is Nikhil Sharma and I am a freshmen pursuing my Bachelor's in Computer Science & Engineering. 
 - :raising_hand: I am passionate about **CNCF Projects**, **Web Development**, **Golang** and **DevOps**.
 - :computer: I am learning about Cloud Native Tools every single day and improving my skills to be able to do useful contributions to **CNCF** projects.
-	-  🌱 Currently I am learning about **Google Cloud** and **service mesh (linkerd)**.
+-  🌱 Currently I am learning about **Google Cloud** and **service mesh (linkerd)**.
 - :cowboy_hat_face: I also try to share my knowledge on my **[Blog](https://nikhilsblog.hashnode.dev/)** about :
 	- CNCF Projects
 	- Development concepts
@@ -35,7 +36,7 @@
 - **Git & Github**
 
 
-## <📈 GitHub Stats >  
+## 📈 GitHub Stats   
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=NikhilSharmaWe&show_icons=true&theme=tokyonight)  -->
 <p align="center">
