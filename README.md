@@ -3,6 +3,7 @@
 
 <h1 align="center">Hello , I'm Nikhil! <span class="wave">👋</span></h1>
 
+
 ## About Me
 
 **[Twitter](https://twitter.com/nikhilstwt)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[LinkedIn](https://www.linkedin.com/in/nikhil-sharma-3884261b2/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Blog](https://nikhilsblog.hashnode.dev/)**
@@ -21,13 +22,15 @@
 ## Skills 
 
 
-### **Programming Languages**
+
+### Programming Languages
 - **Golang**
 - **Java**
 - **JavaScript**
 - **Python**
 - **HTML**
 - **CSS**
+
 ### Tools
 - **Docker** 
 - **Kubernetes**
@@ -35,8 +38,7 @@
 - **Sonobuoy**
 - **Git & Github**
 
-
-## 📈 GitHub Stats   
+<h2> 📈 GitHub Stats </h2>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=NikhilSharmaWe&show_icons=true&theme=tokyonight)  -->
 <p align="center">
