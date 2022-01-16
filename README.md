@@ -6,8 +6,7 @@
 
 ## About Me
 
-**[Twitter](https://twitter.com/nikhilstwt)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[LinkedIn](https://www.linkedin.com/in/nikhil-sharma-3884261b2/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Blog](https://nikhilsblog.hashnode.dev/)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Youtube](https://www.youtube.com/channel/UC13FZ3U7cuLIGN9lOo_8cQQ)**
+### **[Twitter](https://twitter.com/nikhilstwt)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[LinkedIn](https://www.linkedin.com/in/nikhil-sharma-3884261b2/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Blog](https://nikhilsblog.hashnode.dev/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Youtube](https://www.youtube.com/channel/UC13FZ3U7cuLIGN9lOo_8cQQ)**
 
 
 - :mortar_board: My name is Nikhil Sharma and I am a freshmen pursuing my Bachelor's in Computer Science & Engineering. 
