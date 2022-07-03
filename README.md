@@ -33,6 +33,7 @@
 ### Tools
 - **Docker** 
 - **Kubernetes**
+- **Operators**
 - **Linkerd**
 - **Sonobuoy**
 - **Git & Github**
