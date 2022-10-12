@@ -20,12 +20,10 @@
 
 ## :arrow_up: What I am upto
 
-- Contributing to **[Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)** for creating a plugin (**[deploy-image/v1-alpha](https://master.book.kubebuilder.io/plugins/deploy-image-plugin-v1-alpha.html)**) which will provide users an **operator solution** to **deploy** and **manage** an image on a **Kubernetes cluster**.
+- Contributing to [Kyverno](https://github.com/kyverno/kyverno) (a policy engine for Kubernetes). I am working on integrating the **cleanup rule** into the Kyverno policies, which will identify and scavenge resources based on a specified schedule.
 
-	**Demo: https://www.youtube.com/watch?v=UwPuRjjnMjY** 
-
-- Learning about **SBOMs** and how to integrate them in Github projects.
 ## Skills 
+
 
 
 
