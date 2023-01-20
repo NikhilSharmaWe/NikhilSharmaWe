@@ -12,7 +12,6 @@
 - :mortar_board: Pursuing my Bachelor's in Computer Science & Engineering. 
 - :raising_hand: Passionate about **DevOps**, **Cloud-Native Technologies** and **Web Dev**.
 - :computer: Using Go frequently for Open Source contributions to CNCF and Cloud-native related projects.
--  🌱 Currently I am learning about **Google Cloud** and **service mesh (linkerd)**.
 - :cowboy_hat_face: I also try to share my knowledge on my **[Blog](https://nikhilsblog.hashnode.dev/)** about :
 	- CNCF Projects
 	- Development concepts
@@ -20,28 +19,8 @@
 
 ## :arrow_up: What I am upto
 
-- Contributing to [Kyverno](https://github.com/kyverno/kyverno) (a policy engine for Kubernetes). I am working on integrating the **cleanup rule** into the Kyverno policies, which will identify and scavenge resources based on a specified schedule.
+- Contributing to [Fission](https://github.com/fission/fission).
 
-## Skills 
-
-
-
-
-### Programming Languages
-- **Golang**
-- **Java**
-- **JavaScript**
-- **Python**
-- **HTML**
-- **CSS**
-
-### Tools
-- **Docker** 
-- **Kubernetes**
-- **Operators**
-- **Linkerd**
-- **Sonobuoy**
-- **Git & Github**
 
 <h2> 📈 GitHub Stats </h2>
 
