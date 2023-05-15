@@ -19,8 +19,7 @@
 
 ## :arrow_up: What I am upto
 
-- Contributing to [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
-
+- Contributing to [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) and [OpenFaas](https://github.com/openfaas).
 
 <h2> 📈 GitHub Stats </h2>
 
